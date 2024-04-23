@@ -74,7 +74,7 @@ namespace HotelServicesAsync
                                 {
                                     Console.WriteLine("1.Room yarat");
                                     Console.WriteLine("2.Room sil");
-                                    Console.WriteLine("3.Room hotelleri gor");
+                                    Console.WriteLine("3.Butun roomlari gor");
                                     Console.WriteLine("0.Evvelki menu qayit");
                                     Console.Write("Secim edin: ");
                                 }
