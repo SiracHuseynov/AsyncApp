@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Srw4jrOIHAhUMLG4URjqNmwcR2YNySj5e99jPkKY8yOyqoEbz+lWQF96nqhHcYGd/tqG4yPbgW8PUAwX6NuUQ==",
+  "dgSpecHash": "l5F8C5A+szh0QKRt3HWNyl0IM8ECUmLfrz0/SnFeVifQ+rJj8JfCaIXoyVMDiLvNFdLelwzX7khbXPICqS+C+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Sirac Huseynov\\Desktop\\AsyncApp\\HotelServicesAsync\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

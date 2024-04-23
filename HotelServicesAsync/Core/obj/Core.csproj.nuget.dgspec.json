@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\Core\\Core.csproj": {}
+    "C:\\Users\\Sirac Huseynov\\Desktop\\AsyncApp\\HotelServicesAsync\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\Core\\Core.csproj": {
+    "C:\\Users\\Sirac Huseynov\\Desktop\\AsyncApp\\HotelServicesAsync\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Sirac Huseynov\\Desktop\\AsyncApp\\HotelServicesAsync\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Sirac Huseynov\\Desktop\\AsyncApp\\HotelServicesAsync\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Sirac Huseynov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Sirac Huseynov\\Desktop\\AsyncApp\\HotelServicesAsync\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sirac Huseynov\\AppData\\Roaming\\NuGet\\NuGet.Config",
