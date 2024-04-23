@@ -11,7 +11,6 @@ namespace Core.Services.Concretes
 {
     public class HotelService
     {
-        public object LockObj { get; set; } = new object();
         public async Task AddHotel(Hotel hotel)
         {
             await Task.Run(() =>
