@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9238876-F2C2-4C4F-921C-EFBDDE38C7C6}|Core\\Core.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hotelservicesasync\\core\\services\\concretes\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9238876-F2C2-4C4F-921C-EFBDDE38C7C6}|Core\\Core.csproj|solutionrelative:core\\services\\concretes\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9238876-F2C2-4C4F-921C-EFBDDE38C7C6}|Core\\Core.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hotelservicesasync\\core\\services\\concretes\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9238876-F2C2-4C4F-921C-EFBDDE38C7C6}|Core\\Core.csproj|solutionrelative:core\\services\\concretes\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4A6164-2FEC-496F-B70F-A31B86AE460F}|HotelServicesAsync\\HotelServicesAsync.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hotelservicesasync\\hotelservicesasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4A6164-2FEC-496F-B70F-A31B86AE460F}|HotelServicesAsync\\HotelServicesAsync.csproj|solutionrelative:hotelservicesasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\Core\\Services\\Concretes\\RoomService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\Concretes\\RoomService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\Core\\Services\\Concretes\\RoomService.cs",
+              "RelativeToolTip": "Core\\Services\\Concretes\\RoomService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:25:32.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\Core\\Services\\Concretes\\HotelService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\Concretes\\HotelService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\Core\\Services\\Concretes\\HotelService.cs",
+              "RelativeToolTip": "Core\\Services\\Concretes\\HotelService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:25:23.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\HotelServicesAsync\\Program.cs",
+              "RelativeDocumentMoniker": "HotelServicesAsync\\Program.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HotelServicesAsync\\HotelServicesAsync\\Program.cs",
+              "RelativeToolTip": "HotelServicesAsync\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAiwG4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:22:27.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
