@@ -100,7 +100,7 @@ namespace HotelServicesAsync
                                             Console.Write("Silmek istediyiniz room id daxil edin: ");
                                         }
                                         while (!int.TryParse(Console.ReadLine(), out roomId));
-                                        await roomService.RemoveRoom(hotelId);
+                                        await roomService.RemoveRoom(roomId);
                                         break;
                                     case (byte)SubMenu.GetAllRooms:
                                         await roomService.GetAllRooms();
@@ -114,7 +114,7 @@ namespace HotelServicesAsync
                         }
                         else
                         {
-                            Console.WriteLine($"{hotelId} deye id yoxdur!");
+                            Console.WriteLine($"id'i {hotelId} olan hotel yoxdur!");
                         }
 
                         break;
